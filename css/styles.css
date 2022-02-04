@@ -18,6 +18,7 @@ h1,h2{
 #title{
   color: #fc8c93;
   line-height: 50px;
+  margin-top: 200px;	
 }
 #question {
   display: inline;
